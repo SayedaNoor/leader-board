@@ -1,0 +1,6 @@
+.navbar{
+    background-color: blue;
+}
+.navbar,h3,a{
+    color: white;
+}
